@@ -80,3 +80,32 @@
     color: white;
     padding-top: 20px;
 }
+.image3{
+    background-image: url("image/about-img.jpg");
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 700px;
+    background-size: cover;
+    margin-top: 150px;
+    margin-left: 200px;
+    width: 50%;
+}
+.About{
+    display: flex;
+}
+.Us{
+    margin-top: 200px;
+    margin-left: 20px;
+    width: 50%;
+}
+.Us p{
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+.Us a{
+    font-size: 25px;
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
